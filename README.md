@@ -1,1 +1,1 @@
-# Data-analysis
+This project demonstrates how to analyze a marketing campaign dataset by performing data cleaning, feature scaling, and K-means clustering to segment customers based on their behavior and income. The dataset is analyzed using various methods like visualizations and clustering techniques to extract valuable insights.
